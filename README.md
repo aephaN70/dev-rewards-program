@@ -5,7 +5,7 @@ Earn TAD token by contributing Tadpole Finance development
 
 ### What is Developer Rewards program?
 
-Tadpole Finance is managed as an open source project. We invite all developers to participate in developing this project. As the reward, 10% of the TAD supply (Tadpole Finance platform token) will be distributed to developers who contribute to the Tadpole Finance codebase.
+Tadpole Finance is managed as an open source project. We invite all developers to participate in developing this project. As the reward, 10% or 100.000 TAD of the TAD supply (Tadpole Finance platform token) will be distributed to developers who contribute to the Tadpole Finance codebase.
 
 ### How do I participate in Developer Rewards Program?
 
